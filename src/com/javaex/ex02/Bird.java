@@ -15,7 +15,7 @@ public abstract class Bird {
 		this.name = name;
 	}
 	//메소드 g/s
-	protected String getName() {
+	protected String getName() { // 상속관계에서 열어둠
 		return name;
 	}
 
