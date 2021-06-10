@@ -11,6 +11,10 @@ public class Ractangle extends Shape{
 		this.height=height;
 	}
 	
+	public void setWidth(int width) {
+		this.width = width;
+	}
+
 	public int getWidth() {
 		return width;
 	}
