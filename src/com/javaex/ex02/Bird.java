@@ -26,7 +26,7 @@ public abstract class Bird {
 
 	
 	//메소드-일반
-	public abstract void showName();
+	public abstract void showName(); // abstract 는 메소드 제목만 써준다.
 	
 	public abstract void sing();
 	
