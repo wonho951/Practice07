@@ -15,11 +15,11 @@ public abstract class Bird {
 		this.name = name;
 	}
 	//메소드 g/s
-	public String getName() {
+	protected String getName() {
 		return name;
 	}
 
-	public void setName(String name) {
+	protected void setName(String name) {
 		this.name = name;
 	}
 
